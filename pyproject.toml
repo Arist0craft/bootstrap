@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "bootstrap"
-version = "0.1.0"
+version = "0.1.2"
 description = "Statistics two dimensional Bootstrap for A/B testing"
 authors = ["Arist0craft <dimnktn@gmail.com>"]
 readme = "README.md"
